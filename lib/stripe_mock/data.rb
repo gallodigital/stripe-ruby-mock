@@ -44,6 +44,7 @@ module StripeMock
         fee_details: [
         ],
         card: {
+          id: "card_#{SecureRandom.hex(24)}",
           object: "card",
           last4: "4242",
           brand: "Visa",
