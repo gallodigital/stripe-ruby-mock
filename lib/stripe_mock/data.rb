@@ -46,7 +46,7 @@ module StripeMock
         card: {
           object: "card",
           last4: "4242",
-          type: "Visa",
+          brand: "Visa",
           exp_month: 12,
           exp_year: 2013,
           fingerprint: "3TQGpK9JoY1GgXPw",
